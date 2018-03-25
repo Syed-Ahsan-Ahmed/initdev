@@ -1,0 +1,19 @@
+for user interfaces.
+It is java script.
+ECMAScript is an easier version of javascript.
+user interface library.
+cntrl shft j: for developers tool.
+props and state 
+DOM IS A STRUCTURE of html elements.
+Dom diffing takes the copy called virtual copy and loads only the mismatch terms thus reduces the time from localhost to server.faster.
+writing nd reading from DOM is done by javascript.
+
+Creating a new Project
+>>>     npm init
+>>>     npm install --save-dev babel-cli
+or
+>>>     npm install -g babel-cli
+
+>>>     npm install --save-dev babel-preset-latest babel-preset-react babel-preset-stage-0
+
+>>>     babel ./src/index.js --out-file ./dist/bundle.js
